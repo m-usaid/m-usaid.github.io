@@ -11,9 +11,9 @@ title                    : "M. Usaid Rehman"
 title_separator          : "-"
 name                     : &name "M. Usaid Rehman"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://m-usaid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "m-usaid/m-usaid.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,8 +85,8 @@ author:
   bio              : "Computer Science Undergraduate at Habib University"
   location         : "Karachi, Pakistan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "mr04302@st.habib.edu.pk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/muhammad-usaid-rehman-aa8b64202/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true 
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -219,14 +219,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   - scope:
       path: ""
