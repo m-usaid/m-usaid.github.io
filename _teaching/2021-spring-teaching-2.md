@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "MATH 102: Calculus II"
 permalink: /teaching/2021-spring-teaching-1
-venue: "University 1, Department"
+venue: "Habib University, ISCIM"
 date: 2021-01-01
-location: "City, Country"
+location: "Karachi, Pakistan"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
