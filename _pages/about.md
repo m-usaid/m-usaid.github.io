@@ -12,6 +12,8 @@ I am an undergraduate at [Habib University](https://habib.edu.pk/), Karachi - wh
 
 My research interests lie in theoretical computer science; particularly algorithm design and analysis, and computational complexity. I am also interested in computational intelligence, machine learning and reinforcement learning and their applications in interdisciplinary areas.
 
+I am currently working for World Wildlife Fund for Nature - Pakistan.  
+
 Aside from academics, I have been learning _sitar_ under the tutelage of Ustad Sajid Hussain in Karachi since the last two years at the [Center for South Asian Music](https://habib.edu.pk/music/) at Habib University. 
 
-I enjoy engaging with and listening to different musical cultures - especially music from South Asia. I enjoy reading texts about South Asian music theory and history. As an extension of my music minor, I will be conducting a detailed ethnography of my mu 
+I enjoy engaging with different musical cultures - especially music from South Asia. I enjoy reading texts about South Asian music theory and history. As an extension of my music minor, I will be conducting a detailed ethnography of my _sitar_ teacher to document the shifting structures of traditional music in   
