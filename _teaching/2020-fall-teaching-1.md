@@ -8,13 +8,13 @@ date: 2020-08-01
 location: "Karachi, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I assisted faculty with logistical issues while transferring to online learning due to the COVID-19 pandemic. I also conducted office hours to provide individual support to students and graded assignments, while also holding tutorials for topics in multivariable calculus and differential equations. 
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
