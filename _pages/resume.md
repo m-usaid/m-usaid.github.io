@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-For an abridged version in a PDF format, click [here](/files/m-usaidrehman-resume.pdf)
-
+To download an abridged version of my resume, click [here](/files/m-usaidrehman-resume.pdf).
 {% include base_path %}
-
 ## Education
 
 * BSc. Computer Science 
