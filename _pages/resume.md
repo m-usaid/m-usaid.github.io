@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For an abridged version in a PDF format, click [here](../files/m-usaidrehman-resume.pdf)
+For an abridged version in a PDF format, click [here](/files/m-usaidrehman-resume.pdf)
 
 {% include base_path %}
 
