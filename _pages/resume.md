@@ -10,10 +10,10 @@ redirect_from:
 To download an abridged version of my resume, click [here](/files/m-usaidrehman-resume.pdf).
 {% include base_path %}
 ## Education
-
-* BSc. Computer Science 
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. Computer Science, Habib University, 2022 (expected)
+  * Minors: Mathematics, South Asian Music 
+* A-Levels, Cedar College, 2018 
+  * Subjects: Physics, Chemistry, Mathematics, Further Mathematics 
 
 ## Work experience
 
