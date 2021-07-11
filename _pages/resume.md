@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-For an abridged version in a PDF format, click [here](m-usaidrehman-resume.pdf)
+For an abridged version in a PDF format, click [here](../files/m-usaidrehman-resume.pdf)
 
 {% include base_path %}
 
 ## Education
 
-* B.S. in GitHub, GitHub University, 2012
+* BSc. Computer Science 
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
