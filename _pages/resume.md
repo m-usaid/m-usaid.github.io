@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+For an abridged version in a PDF format, click [here](m-usaidrehman-resume.pdf)
+
 {% include base_path %}
 
 ## Education
