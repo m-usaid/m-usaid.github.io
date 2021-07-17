@@ -19,15 +19,13 @@ To download an abridged version of my resume, please click [here](/files/m-usaid
 
 * Summer 2021: Machine Learning Intern
   * World Wildlife Fund for Nature - Pakistan
-  * Duties included: We implemented a deep learning model using convolutional neural networks and computer vision techniques to classify images of native birds according to their species. This project was also in partial fulfillment of the _Khidmat_ (social responsibility) requirement of the computer science program at Habib University.
-  
-  <br />
+  * Duties included: We implemented a deep learning model using convolutional neural networks and computer vision techniques to classify images of native birds according to their species. This project was also in partial fulfillment of the _Khidmat_ (social responsibility) requirement of the computer science program at Habib University
+
 * Spring 2021: Teaching Assistant - MATH 102: Calculus II
   * Integrated Sciences and Mathematics (iSciM), Habib University
   * Duties included: Tagging issues
   * Supervisor: Ms. Sajal Rana
 
-  <br />
 * Fall 2020: Teaching Assistant - MATH 202: Engineering Mathematics
   * Integrated Sciences and Mathematics (iSciM), Habib University
   * Duties included: Merging pull requests
