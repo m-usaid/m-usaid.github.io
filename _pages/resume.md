@@ -15,7 +15,7 @@ To download an abridged version of my resume, please click [here](/files/m-usaid
 * A-Levels, Cedar College, 2018 
   * Subjects: Physics, Chemistry, Mathematics, Further Mathematics 
 
-## Work experience
+## Work Experience
 
 * Summer 2021: Machine Learning Intern
   * World Wildlife Fund for Nature - Pakistan
@@ -43,12 +43,12 @@ To download an abridged version of my resume, please click [here](/files/m-usaid
   * Sub-skill 2.3
 * Skill 3
 
-## Teaching
+<!-- ## Teaching
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-## Service and leadership
+## Project Highlights
 
 * Currently signed in to 43 different slack teams
