@@ -35,6 +35,7 @@ To download an abridged version of my resume, please click [here](/files/m-usaid
 * Fall 2019 - Spring 2020: Club Treasurer 
   * Physics and Astronomy Club, Habib University 
   * I was responsible for fund-raising and managing the finances of the club, while also maintaining and filing acquisition request forms and budget forms. I also assisted in organizing club events and in the day-to-day running of the club.  
+
 ## Skills
 
 * Skill 1
