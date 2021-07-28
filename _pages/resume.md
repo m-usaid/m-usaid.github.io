@@ -28,12 +28,13 @@ To download an abridged version of my resume, please click [here](/files/m-usaid
 
 * Fall 2020: Teaching Assistant - MATH 202: Engineering Mathematics
   * Integrated Sciences and Mathematics (iSciM), Habib University
-  * I provided logistical support to students and faculty, and  provided individual instruction to students in the course content. I held office hours to deal with student queries, and graded homework assignments.
+  * I assisted faculty in transition to online learning due to the COVID-19 pandemic. I conducted online tutorials and office hours to 
+  to support students in the shift to online learning while also grading homeworks and providing individual instruction. 
   * Supervisor: Mr. Rameez Ragheb
   
 * Fall 2019 - Spring 2020: Club Treasurer 
   * Physics and Astronomy Club, Habib University 
-  * udents in the course content. I held office hours to deal with student queries, and graudents in the course content. I held office hours to deal with student queries, and gra
+  * I was responsible for fund-raising and managing the finances of the club, while also maintaining and filing acquisition request forms and budget forms. I also assisted in organizing club events and in the day-to-day running of the club.  
 ## Skills
 
 * Skill 1
